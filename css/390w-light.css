@@ -463,6 +463,7 @@
   position: absolute;
   top: 38px;
   width: 42px;
+  display: none;
 }
 
 .x390w-light .vector {
@@ -495,6 +496,7 @@
   position: absolute;
   top: 23px;
   width: 295px;
+  display: none;
 }
 
 .x390w-light .address {
@@ -571,7 +573,6 @@
   left: 0;
   overflow: hidden;
   padding: 11.5px 0;
-  position: fixed;
   bottom: 0;
   width: 390px;
 }
